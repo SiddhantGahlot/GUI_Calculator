@@ -16,7 +16,7 @@ No additional installation is required for `tkinter` as it is included with Pyth
   
   1. **Clone the Repository:**
   
-    git clone https://github.com/yourusername/gui_calculator.git
+    git clone https://github.com/SiddhantGahlot/gui_calculator.git
     cd gui_calculator
     
   2. **Run the Script:**
