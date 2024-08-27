@@ -44,7 +44,7 @@ Feel free to fork this repository, make changes, and submit a pull request. Any 
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email:** sg9407176@gmail.com
-- **LinkedIn:** Siddhant Kumar
+- **LinkedIn:** (https://linkedin.com/in/siddhant-gahlot-b91929308)
 
 **License**
 
