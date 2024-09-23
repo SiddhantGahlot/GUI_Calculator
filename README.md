@@ -30,7 +30,7 @@
 - **`subtract():` Performs subtraction of two numbers.**
 - **`multiply():` Performs multiplication of two numbers.**
 - **`divide():` Performs division of two numbers with error handling for division by zero.**
-- **`GUI Layout` Includes input fields for numbers, operation buttons, and a result display label.**
+- **GUI Layout: Includes input fields for numbers, operation buttons, and a result display label.**
 
 ## Contribution Guidelines
 
